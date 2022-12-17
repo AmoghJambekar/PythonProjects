@@ -2,7 +2,7 @@
 
 import random
 
-names = ["Harsha Ahmed", "Arav Kewalia", "Arya Vaidya", "Lingesh Sashi Kumar", "Nan Singh", "Abby Mathew", "Rohan Gali", "Pranav Karra", "Riya Shenvi","Arul Nangla" , "Claire Zhu", "Andrew Thoms", "Aritra Banerjee", "Rohit Mudduluru","Mayur Kashyap", "Aarav Sureban", "Shivani Swarnakar", "Liana Wowk", "Ayush Singhal","Alan Jiang", "Harini Sivakumar", "Anya Goel", "Joon Young Doh", "Sahel Abraham", "Nandika Nambiar", "Eric Shao", "Jiya Mody", "Hershey Saran", "Manav Paul", "Armaan Kabra", "Arjun Agarwala", "Shrey Agarwal"]
+names = ["John Doe", "Jane Smith", "William Johnson", "Emily Williams", "James Brown", "Olivia Jones", "Alexander Garcia", "Sophia Miller", "Michael Davis", "Abigail Rodriguez", "Benjamin Martinez", "Chloe Gonzalez", "David Hernandez", "Ella Lopez", "Richard Perez", "Ava Gomez", "Christopher Sanchez", "Natalie Moore", "Matthew Anderson", "Isabella Taylor"]
 
 # create a dictionary to store each person's wishlist
 wishlists = {}
